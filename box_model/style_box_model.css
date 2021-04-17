@@ -1,0 +1,53 @@
+/*body{
+    text-align: center;
+    font-size: 30px;
+}
+
+#BoxMargin{
+    border-style: dashed;
+    padding: 50px;
+    padding-top: 10px;
+}
+
+#BoxBorder{
+    border-style: solid;
+    padding: 50px;
+    padding-top: 10px;
+    background-color: yellow;
+}
+
+#BoxPadding{
+    border-style: solid;
+    padding: 50px;
+    padding-top: 10px;
+    background-color: white;
+}
+
+#BoxContent{
+    border-style: dashed;
+    padding: 10px;
+    padding-bottom: 20%;
+}*/
+div{
+    border: 1px solid black;
+    margin: 20px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+#BoxContent{
+    padding-bottom: 150px;
+    border: 1px dashed black;
+}
+
+#BoxMargin{
+    border: 1px dashed black;
+}
+
+#BoxBorder{
+    background-color: yellow;
+}
+
+#BoxPadding{
+    background-color: white;
+}
